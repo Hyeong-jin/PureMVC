@@ -1,4 +1,4 @@
-http://puremvc.org/docs/PureMVC_Framework_Overview_with_UML.pdf
+원문: http://puremvc.org/docs/PureMVC_Framework_Overview_with_UML.pdf
 
 ![PureMVC](images/title.png)
 
